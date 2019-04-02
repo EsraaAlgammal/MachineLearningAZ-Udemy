@@ -2,7 +2,7 @@
 
 This repository contains the programming assignments for Udemy's (Machine Learning A-Z) course - can be found here: https://www.udemy.com/machinelearning/ 
 
-#### The assignments are done using Spyder 3.7 and 3.6 on Windows 10.
+#### The assignments are done with Python, using Spyder 3.7 and 3.6 on Windows 10.
 
 #### Contents:
 1. Regression 
